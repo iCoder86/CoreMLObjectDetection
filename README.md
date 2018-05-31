@@ -1,6 +1,6 @@
 # CoreMLObjectDetection
 
-<a href="https://imgflip.com/gif/2bbxk4"><img src="https://i.imgflip.com/2bbxk4.gif" title="made at imgflip.com"/></a>
+<img src="https://github.com/iCoder86/CoreMLObjectDetection/blob/master/ObjectDetectionCameraApp/demo.gif" title="made at imgflip.com"/>
 
 A sample iOS app using camera and detects object camera is facing.
 
